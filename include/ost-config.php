@@ -42,7 +42,7 @@ define('DBTYPE','mysql');
 define('DBHOST','user19mysql.mysql.database.azure.com');
 define('DBNAME','user19mysql');
 define('DBUSER','user19@user19mysql');
-define('DBPASS','demo@pass123');
+define('DBPASS','gmltkfkd7!@#');
 
 # Table prefix
 define('TABLE_PREFIX','ost_');
