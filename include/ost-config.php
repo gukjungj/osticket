@@ -36,7 +36,7 @@ define('SECRET_SALT','Ix0kZ3o1DEblWG9nRtCDBeN6NkMYvzf5');
 define('ADMIN_EMAIL','demouser@opsgility.com');
 
 # Database Options
-# ---------------------------------------------------
+# -----ff----------------------------------------------
 # Mysql Login info
 define('DBTYPE','mysql');
 define('DBHOST','user19mysql.mysql.database.azure.com');
